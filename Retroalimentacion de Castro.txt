@@ -1,0 +1,14 @@
+Aunque no sea el código final tener cuidado con estos errores que se presentaron al ejecutar el código
+
+Ser más explícito con lo que se expresa como "llegaron coches" ¿Dónde? ¿De qué lado?
+
+Utiliza un semáforo para controlar los espacios en el puente, es decir 10 recursos como máximo en el puente
+
+Utiliza semáforos para el control de la cantidad de carros en el lado izquierdo y derecho.
+
+Mutex para sincronizar procesos y que no hayan hilos utilizando simultaneamente los mismos datos para
+mantener la integridad de los datos
+
+Como yo utiliza una clase que es el encargado de dar paso a los carros cada cierto tiempo, 
+en este caso él lo llama GuardaQueDaVia
+
